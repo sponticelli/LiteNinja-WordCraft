@@ -5,13 +5,15 @@ With LiteNinja-WordCraft, you can easily create, play, and explore a wide range 
 
 ## Features
 
-TO BE DONE
+- Trie data structure for fast word lookups
 
 ## Getting started
 
+### Installation
+
 TO BE DONE
 
-For more detailed usage examples, see the documentation and sample code provided with the library.
+
 
 ## Contributing
 

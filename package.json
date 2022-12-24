@@ -1,0 +1,25 @@
+{
+  "name": "com.liteninja.wordcraft",
+  "version": "0.0.1",
+  "displayName": "LiteNinja WordCraft",
+  "description": "a library of algorithms and tools for implementing word games",
+  "unity": "2021.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-WordCraft/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-WordCraft/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-WordCraft/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "utility",
+    "Word",
+    "Game",
+    "Puzzle",
+    "Search",
+    "Scramble"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
